@@ -28,13 +28,7 @@ https://archive.ics.uci.edu/dataset/908/realwaste
 | Communication | RESTful APIs                   |
 | Tools         | Git, VS Code, Netlify (optional for deployment) |
 
----
 
-## 🖼️ Screenshots
-
-> Add UI screenshots here if available.
-
----
 
 ## 📦 Installation & Setup
 
