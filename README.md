@@ -5,6 +5,8 @@
 A lightweight, responsive web application that classifies images of trash into categories like plastic, glass, metal, and biodegradable using a Hugging Face model (PaliGemma) through RESTful API integration.
 
 ---
+## Dataset : 
+https://archive.ics.uci.edu/dataset/908/realwaste
 
 ## 🚀 Features
 
@@ -47,6 +49,7 @@ If you are using a backend API proxy:
 ```bash
 npm install
 npm start
+```
 
 ## Usage
 
@@ -66,8 +69,7 @@ Accepts base64 or file upload and returns JSON with classification text
 {
   "prediction": "Plastic bottle"
 }
+```
 
-This repository contains a deep learning-based waste classification model designed to automate the sorting of waste into three primary categories: Recyclable, Compostable, and Trash.
 
-Datset : https://archive.ics.uci.edu/dataset/908/realwaste
 
