@@ -42,6 +42,7 @@ https://archive.ics.uci.edu/dataset/908/realwaste
 # Clone the repository
 git clone https://github.com/yourusername/Trash-Classifier.git
 cd Trash-Classifier
+```
 
 # Open index.html in your browser OR serve with live-server
 
